@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="todoApp">
+<html ng-app="todoA">
 <head>
 <title>TO DO LIST</title>
 <link href="bootstrap.css" rel="stylesheet"/>
